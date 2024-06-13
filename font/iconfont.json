@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5404223",
+      "name": "教程1",
+      "font_class": "jiaocheng",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "9080602",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "12401743",
+      "name": "资源 8",
+      "font_class": "ziyuan",
+      "unicode": "eedb",
+      "unicode_decimal": 61147
+    }
+  ]
+}
